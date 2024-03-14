@@ -1,26 +1,25 @@
-### Hi there 👋
+# Olá, eu sou Eduardo Siqueira! 👋
 
-# Bem-vindo ao meu perfil GitHub! 👋
-
-Olá, eu sou Eduardo Siqueira, um Analista de Sistemas. Bem-vindo ao meu espaço no GitHub!
+Sou um entusiasta da tecnologia e estudante dedicado de Análise de Sistemas. Bem-vindo ao meu perfil no GitHub!
 
 ## Sobre mim
 
-- 🌱 Atualmente estou aprendendo novas técnicas de desenvolvimento de software e aprimorando minhas habilidades em análise de sistemas.
-- 👯 Estou procurando colaborar em projetos relacionados ao desenvolvimento de software e análise de sistemas.
-- 💬 Pergunte-me sobre análise de sistemas, desenvolvimento de software e tecnologias relacionadas.
-- 📫 Você pode me encontrar no [LinkedIn](link para o seu perfil) ou enviar um e-mail para [eduardosiqueir21@gmail.com](mailto:eduardosiqueir21@gmail.com).
+- 📚 Atualmente, estou focado nos meus estudos de Análise de Sistemas, buscando aprimorar minhas habilidades em desenvolvimento de software e análise de sistemas.
+- 💻 Tenho interesse em projetos de desenvolvimento de software, especialmente nas áreas de aplicativos web e sistemas distribuídos.
+- 👯 Estou sempre aberto para colaborar em projetos interessantes que possam agregar valor à minha jornada de aprendizado.
+- 💬 Adoro discutir sobre tecnologia, programação e tendências do mercado de TI. Se você compartilha desses interesses, não hesite em entrar em contato!
 
 ## Linguagens e Ferramentas
 
-Aqui estão algumas das linguagens e ferramentas com as quais estou mais familiarizado:
+Aqui estão algumas das linguagens e ferramentas que estou aprendendo e utilizando:
 
-- Linguagens: Java, JavaScript, Python, SQL
-- Ferramentas: Git, IntelliJ IDEA, Visual Studio Code, Docker
+- **Linguagens de Programação:** Java, JavaScript, Python, SQL
+- **Ferramentas de Desenvolvimento:** Git, IntelliJ IDEA, Visual Studio Code, Docker
+- **Frameworks e Tecnologias:** Spring Boot, React, Node.js, PostgreSQL, MongoDB
 
-## Projetos
+## Projetos de Estudo
 
-Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
+Aqui estão alguns dos projetos em que estou trabalhando como parte do meu aprendizado:
 
 - [Nome do Projeto](link para o projeto): Breve descrição do projeto.
 - [Nome do Projeto](link para o projeto): Breve descrição do projeto.
@@ -31,7 +30,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 
 ## Contato
 
-- LinkedIn: [Seu Perfil do LinkedIn](link para o seu perfil)
-- E-mail: [eduardosiqueir21@gmail.com](mailto:eduardosiqueir21@gmail.com)
+- **LinkedIn:** [linkedin.com/seuperfil](link para o seu perfil)
+- **E-mail:** [eduardosiqueir21@gmail.com](mailto:eduardosiqueir21@gmail.com)
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo se quiser colaborar em algum projeto ou tiver alguma pergunta. 😊
+Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo. Estou sempre em busca de oportunidades de aprendizado e colaboração. Vamos aprender e crescer juntos! 😊
