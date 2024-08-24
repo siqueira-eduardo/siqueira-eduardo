@@ -1,36 +1,44 @@
 # Olá, eu sou Eduardo Siqueira! 👋
 
-Sou um entusiasta da tecnologia e estudante dedicado de Análise de Sistemas. Bem-vindo ao meu perfil no GitHub!
+Sou estudante de **Bacharelado em Tecnologia da Informação** com foco em **Análise de Dados**. Estou constantemente aprimorando minhas habilidades em **data science** e **análise de dados**. Seja bem-vindo ao meu perfil no GitHub!
 
-## Sobre mim
+## 🔍 Sobre Mim
 
-- 📚 Atualmente, estou focado nos meus estudos de Análise de Sistemas, buscando aprimorar minhas habilidades em desenvolvimento de software e análise de sistemas.
-- 💻 Tenho interesse em projetos de desenvolvimento de software, especialmente nas áreas de aplicativos web e sistemas distribuídos.
-- 👯 Estou sempre aberto para colaborar em projetos interessantes que possam agregar valor à minha jornada de aprendizado.
-- 💬 Adoro discutir sobre tecnologia, programação e tendências do mercado de TI. Se você compartilha desses interesses, não hesite em entrar em contato!
+- 📚 **Estudos**: Estou aprofundando meus conhecimentos em **Análise de Dados**, incluindo técnicas de **data mining**, **visualização de dados** e **modelagem preditiva**. Meu objetivo é transformar dados em insights acionáveis para apoiar decisões estratégicas.
+- 💻 **Interesses**: Sou apaixonado por **análise de dados**, **estatística**, **machine learning** e **big data**. Estou sempre buscando explorar novas ferramentas e técnicas para resolver problemas complexos e otimizar processos.
+- 👯 **Colaboração**: Aberto a colaborações e projetos que envolvam análise de dados e visualização. Se você está trabalhando em algo interessante ou precisa de alguém para ajudar na análise de dados, vamos conversar!
+- 💬 **Discussões**: Adoro discutir sobre **análise de dados**, **estatística**, **machine learning** e **tendências emergentes**. Se você compartilha desses interesses, entre em contato!
 
-## Linguagens e Ferramentas
+## 🛠️ Linguagens e Ferramentas
 
-Aqui estão algumas das linguagens e ferramentas que estou aprendendo e utilizando:
+Aqui estão algumas das tecnologias e ferramentas que estou usando e aprendendo:
 
-- **Linguagens de Programação:** Java, JavaScript, Python, SQL
-- **Ferramentas de Desenvolvimento:** Git, IntelliJ IDEA, Visual Studio Code, Docker
-- **Frameworks e Tecnologias:** Spring Boot, React, Node.js, PostgreSQL, MongoDB
+- **Linguagens de Programação**: 
+  - Python
+  - R
+  - SQL
+- **Ferramentas de Análise de Dados**: 
+  - Jupyter Notebook
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Tableau
+- **Frameworks e Tecnologias**: 
+  - Scikit-learn
+  - TensorFlow
+  - Power BI
 
-## Projetos de Estudo
+## 📈 Projetos Destacados
 
-Aqui estão alguns dos projetos em que estou trabalhando como parte do meu aprendizado:
+Atualmente, estou explorando e aprendendo com projetos que envolvem análise de dados. Embora não esteja trabalhando em projetos específicos no momento, estou sempre aberto a novas oportunidades para aplicar e expandir meu conhecimento.
 
-- [Nome do Projeto](link para o projeto): Breve descrição do projeto.
-- [Nome do Projeto](link para o projeto): Breve descrição do projeto.
+## 📊 Estatísticas do GitHub
 
-## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide_title=true&hide=prs&include_all_commits=true&count_private=true)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true)
+## 📬 Contato
 
-## Contato
+- **LinkedIn**: [linkedin.com/in/eduardosiqueira](https://www.linkedin.com/in/eduardosiqueira)
+- **E-mail**: [eduardosiqueir20@gmail.com](mailto:eduardosiqueir20@gmail.com)
 
-- **LinkedIn:** [linkedin.com/seuperfil](link para o seu perfil)
-- **E-mail:** [eduardosiqueir21@gmail.com](mailto:eduardosiqueir21@gmail.com)
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo. Estou sempre em busca de oportunidades de aprendizado e colaboração. Vamos aprender e crescer juntos! 😊
+Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre em busca de oportunidades para aprender mais sobre análise de dados e colaborar em projetos interessantes. Vamos fazer algo incrível juntos!
