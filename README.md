@@ -24,12 +24,20 @@ Atualmente, curso **Gestão Pública Municipal** e sigo desenvolvendo conhecimen
 | Sistemas | Utilização e apoio operacional em sistemas ERP |
 | ERP | Gdoor, Velo e Digisat |
 | Rotinas administrativas | Organização de informações, processos e atendimento |
-| Tecnologia | Interesse em infraestrutura, sistemas e ferramentas digitais |
+| Tecnologia | Estudos em hardware, redes e sistemas operacionais |
+
+## Portfólio de Suporte Técnico
+
+### [Portfólio Help Desk](https://github.com/siqueira-eduardo/portfolio-suporte-tecnico)
+Repositório com procedimentos de atendimento, modelos de chamados, roteiros de diagnóstico e materiais de estudo em hardware, redes e sistemas operacionais.
 
 ## Projetos
 
 ### [Atlético Champions](https://github.com/siqueira-eduardo/atletico-champions)
-Projeto relacionado à gestão de competições esportivas. Um exemplo de aplicação de tecnologia para organizar informações e processos de uma atividade real.
+Sistema de gerenciamento de competições esportivas, com classificação, súmulas, estatísticas e gestão de elencos.
+
+### [Agenda](https://github.com/siqueira-eduardo/Agenda)
+Projeto experimental criado com Google AI Studio.
 
 ### [Calculadora](https://github.com/siqueira-eduardo/Calculadora-)
 Projeto de prática e aprendizado em programação.
@@ -41,6 +49,12 @@ Projeto de prática e aprendizado em programação.
 - Aprofundando conhecimentos em suporte técnico e Help Desk.
 - Estudando ferramentas e boas práticas de tecnologia da informação.
 - Desenvolvendo projetos digitais para resolver problemas práticos.
+
+## Formação e qualificações
+
+- Técnico em Informática.
+- Técnico em Administração.
+- Tecnólogo em Gestão Pública Municipal — em andamento.
 
 ## Contato
 
