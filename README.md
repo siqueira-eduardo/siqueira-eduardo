@@ -1,44 +1,52 @@
-# Olá, eu sou Eduardo Siqueira! 👋
+# Eduardo Siqueira
 
-Sou estudante de **Bacharelado em Tecnologia da Informação** com foco em **Análise de Dados**. Estou constantemente aprimorando minhas habilidades em **data science** e **análise de dados**. Seja bem-vindo ao meu perfil no GitHub!
+**Suporte Técnico | Help Desk | Tecnologia da Informação**
 
-## 🔍 Sobre Mim
+Profissional com formação técnica em **Informática** e **Administração**, experiência com atendimento ao usuário e sistemas de gestão (ERP), e interesse em suporte técnico, resolução de problemas e melhoria de processos.
 
-- 📚 **Estudos**: Estou aprofundando meus conhecimentos em **Análise de Dados**, incluindo técnicas de **data mining**, **visualização de dados** e **modelagem preditiva**. Meu objetivo é transformar dados em insights acionáveis para apoiar decisões estratégicas.
-- 💻 **Interesses**: Sou apaixonado por **análise de dados**, **estatística**, **machine learning** e **big data**. Estou sempre buscando explorar novas ferramentas e técnicas para resolver problemas complexos e otimizar processos.
-- 👯 **Colaboração**: Aberto a colaborações e projetos que envolvam análise de dados e visualização. Se você está trabalhando em algo interessante ou precisa de alguém para ajudar na análise de dados, vamos conversar!
-- 💬 **Discussões**: Adoro discutir sobre **análise de dados**, **estatística**, **machine learning** e **tendências emergentes**. Se você compartilha desses interesses, entre em contato!
+Atualmente, curso **Gestão Pública Municipal** e sigo desenvolvendo conhecimentos em tecnologia e ferramentas digitais.
 
-## 🛠️ Linguagens e Ferramentas
+---
 
-Aqui estão algumas das tecnologias e ferramentas que estou usando e aprendendo:
+## Sobre mim
 
-- **Linguagens de Programação**: 
-  - Python
-  - R
-  - SQL
-- **Ferramentas de Análise de Dados**: 
-  - Jupyter Notebook
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Tableau
-- **Frameworks e Tecnologias**: 
-  - Scikit-learn
-  - TensorFlow
-  - Power BI
+- 🖥️ Foco profissional: suporte técnico, Help Desk e atendimento ao usuário.
+- 🧰 Experiência com sistemas ERP: **Gdoor, Velo e Digisat**.
+- 🏢 Experiência profissional no IBGE como Agente Censitário Supervisor, com atividades de acompanhamento, organização e suporte às equipes de campo.
+- 📚 Formação técnica em Informática e Administração.
+- 🎓 Graduando em Gestão Pública Municipal.
 
-## 📈 Projetos Destacados
+## Competências
 
-Atualmente, estou explorando e aprendendo com projetos que envolvem análise de dados. Embora não esteja trabalhando em projetos específicos no momento, estou sempre aberto a novas oportunidades para aplicar e expandir meu conhecimento.
+| Área | Conhecimentos e experiência |
+| --- | --- |
+| Suporte de TI | Atendimento ao usuário, identificação de problemas e suporte inicial |
+| Sistemas | Utilização e apoio operacional em sistemas ERP |
+| ERP | Gdoor, Velo e Digisat |
+| Rotinas administrativas | Organização de informações, processos e atendimento |
+| Tecnologia | Interesse em infraestrutura, sistemas e ferramentas digitais |
 
-## 📊 Estatísticas do GitHub
+## Projetos
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&hide_title=true&hide=prs&include_all_commits=true&count_private=true)
+### [Atlético Champions](https://github.com/siqueira-eduardo/atletico-champions)
+Projeto relacionado à gestão de competições esportivas. Um exemplo de aplicação de tecnologia para organizar informações e processos de uma atividade real.
 
-## 📬 Contato
+### [Calculadora](https://github.com/siqueira-eduardo/Calculadora-)
+Projeto de prática e aprendizado em programação.
 
-- **LinkedIn**: [linkedin.com/in/eduardosiqueira](https://www.linkedin.com/in/eduardosiqueira)
-- **E-mail**: [eduardosiqueir20@gmail.com](mailto:eduardosiqueir20@gmail.com)
+> Também estou trabalhando em um sistema de gestão dos Campeonatos Municipais de Ouricuri, com funcionalidades para equipes, atletas, partidas, súmulas e classificação. O repositório está privado durante o desenvolvimento.
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre em busca de oportunidades para aprender mais sobre análise de dados e colaborar em projetos interessantes. Vamos fazer algo incrível juntos!
+## Atualmente
+
+- Aprofundando conhecimentos em suporte técnico e Help Desk.
+- Estudando ferramentas e boas práticas de tecnologia da informação.
+- Desenvolvendo projetos digitais para resolver problemas práticos.
+
+## Contato
+
+- **E-mail:** [eduardosiqueir20@gmail.com](mailto:eduardosiqueir20@gmail.com)
+- **GitHub:** [github.com/siqueira-eduardo](https://github.com/siqueira-eduardo)
+
+---
+
+*Aberto a oportunidades na área de Suporte Técnico, Help Desk e Tecnologia da Informação.*
