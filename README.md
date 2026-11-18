@@ -39,10 +39,10 @@ Documentação de atendimento, modelos de chamados, roteiros de diagnóstico e m
 Sistema de gerenciamento de competições esportivas, com classificação, súmulas, estatísticas e gestão de elencos.
 
 ### [Agenda](https://github.com/siqueira-eduardo/Agenda)
-Aplicação experimental desenvolvida com Google AI Studio.
+Legado: aplicação web de organização pessoal, estudos, metas e rotina familiar, com assistente de IA (React, TypeScript, Firebase e Gemini).
 
 ### [Calculadora](https://github.com/siqueira-eduardo/Calculadora-)
-Projeto de prática e aprendizado em programação.
+Calculadora de linha de comando em Java, com as quatro operações e tratamento de divisão por zero.
 
 > Também desenvolvo um sistema de gestão dos Campeonatos Municipais de Ouricuri, com funcionalidades para equipes, atletas, partidas, súmulas e classificação. O repositório permanece privado durante o desenvolvimento.
 
