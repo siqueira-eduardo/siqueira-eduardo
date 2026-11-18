@@ -11,6 +11,8 @@ Atualmente curso **Bacharelado em Tecnologia da Informação na Universidade Fed
 ## Sobre mim
 
 - 🖥️ Foco profissional: suporte técnico, Help Desk e atendimento ao usuário.
+- 💼 Atuo como técnico de Help Desk na **Vita Sertão**, com atendimento presencial e remoto em 10 cidades do Sertão do Araripe (PE).
+- 🛡️ Próximo passo na carreira: segurança da informação, com meta de atuar em SOC Nível 1.
 - 🧰 Experiência com sistemas ERP: **Gdoor, Velo e Digisat**.
 - 🏢 Experiência no IBGE como Agente Censitário Supervisor, com acompanhamento, organização e suporte às equipes de campo.
 - 📚 Formação técnica em Informática e Administração.
@@ -47,6 +49,7 @@ Projeto de prática e aprendizado em programação.
 ## Atualmente
 
 - Aprofundando conhecimentos em suporte técnico e Help Desk.
+- Estudando redes e fundamentos de segurança da informação.
 - Estudando ferramentas e boas práticas de tecnologia da informação.
 - Desenvolvendo projetos digitais para resolver problemas práticos.
 
@@ -55,6 +58,17 @@ Projeto de prática e aprendizado em programação.
 - Técnico em Informática.
 - Técnico em Administração.
 - Bacharelado em Tecnologia da Informação — UFMS, em andamento (2024–2028).
+
+### Certificações
+
+- Cisco — **CCNA Introduction to Networks** (2022)
+- FAT — **Assistente de Suporte de Informática**, 240h (2024)
+- DIO — **Introdução a Banco de Dados Relacionais (SQL)** (2024)
+- LinkedIn Learning — **Excel 2019 Fórmulas e Funções Avançadas** e **Excel PROCV e PROCX**
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=siqueira-eduardo&show_icons=true&hide_title=true&hide=prs&include_all_commits=true&count_private=true)
 
 ## Contato
 
